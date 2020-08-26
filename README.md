@@ -2,14 +2,19 @@
 Interactive Data Analysis of AirBnB and Lyft Bikesharing through Python Visualization library
 
 Developed by:
-Swati Kohli
-Poonam Patil
-Sheel Kalburgi
-Nikhit Soares
+Swati Kohli, 
+Poonam Patil, 
+Sheel Kalburgi, 
+Nikhit Soares, 
 
 ### Objective
 This project is about exploring data through visualization using Geoplotlib (Python Visualization Library) features that is advantageous in communicating results related to geospatial analyses, for generating hypotheses during exploratory data analysis, supporting interactive data analysis and facilitating the iterative design for visualizations.
+
 API refrences are available here: https://andrea-cuttone.github.io/geoplotlib/api.html
+
+The dataset used for exploration is on AirBnB(San Francisco Bay Area), Lyft BikeSharing(San Francisco Bay Area) and Flights. The links can be found here:
+ https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips
+ https://www.lyft.com/bikes/bay-wheels/system-data
 
 Geoplotlib is an open-source python toolbox for visualizing geo-graphical data. Geographical data visualization is a fundamental tool for communicating results related to geospatial analyses, and for generating hypotheses during exploratory data analysis.
 
